@@ -1,4 +1,5 @@
-import Banner from "./Banner"
+import Banner from "./components/Banner"
+import Events from "./components/Events"
 import Navbar from "./components/Navbar"
 
 
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Banner></Banner>
+      <Events></Events>
     </div>
   )
 }

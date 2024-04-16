@@ -1,9 +1,9 @@
-import React from 'react';
+
 
 const Banner = () => {
     return (
         <div>
-            <div className="hero rounded-[32px] min-h-[60vh] md:w-4/5 md:mx-auto" style={{ backgroundImage: 'url(banner.png)', backgroundSize: 'cover' }}>
+            <div className="hero rounded-[32px] min-h-[60vh] md:w-4/5 md:mx-auto mb-16" style={{ backgroundImage: 'url(banner.png)', backgroundSize: 'cover' }}>
                 <div className="hero-overlay bg-opacity-30 rounded-[32px] min-h-[60vh]"></div>
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <div className='text-transparent text-5xl font-bold hidden lg:flex'>Ahh!! you got me!! feels bad man!</div>
