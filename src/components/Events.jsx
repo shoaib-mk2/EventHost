@@ -3,7 +3,7 @@ import { FaLocationDot } from "react-icons/fa6";
 const Events = () => {
     return (
         <div>
-            <div className="md:w-4/5 md:mx-auto mb-16">
+            <div className="md:w-4/5 md:mx-auto mb-20">
                 <h1 className="text-center text-5xl font-bold mb-8">Events</h1>
                 <div className="flex flex-wrap justify-center gap-2 mb-10">
                     <p className="px-5 py-2 text-lg rounded-xl inline">All</p>
