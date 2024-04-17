@@ -16,10 +16,14 @@ const Navbar = () => {
                             <li><a>Contact</a></li>
                         </ul>
                     </div>
-                    <a className="pl-10 text-xl text-white">event<span className="font-bold">Host</span></a>
+                    <a className="pl-10 text-2xl text-white">event<span className="font-bold">Host</span></a>
                 </div>
-                <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1 text-white">
+                <div className="navbar-center hidden lg:flex border-dashed border-x-2 border-white px-72 relative">
+                    <div className="w-5 h-5 rounded-full bg-white absolute -top-[1.1rem] -left-[11px]"></div>
+                    <div className="w-5 h-5 rounded-full bg-white absolute -bottom-[1.1rem] -left-[11px]"></div>
+                    <div className="w-5 h-5 rounded-full bg-white absolute -top-[1.1rem] -right-[11px]"></div>
+                    <div className="w-5 h-5 rounded-full bg-white absolute -bottom-[1.1rem] -right-[11px]"></div>
+                    <ul className="menu menu-horizontal px-1 text-white text-xl">
                         <li><a>Home</a></li>
                         <li><a>Events</a></li>
                         <li><a>About us</a></li>

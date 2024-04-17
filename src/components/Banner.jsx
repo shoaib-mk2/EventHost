@@ -9,10 +9,10 @@ const Banner = () => {
                     <div className='text-transparent text-5xl font-bold hidden lg:flex'>Ahh!! you got me!! feels bad man!</div>
                     <div>
                         <h1 className="text-5xl font-bold text-white">CMA Fest</h1>
-                        <p className="py-6 text-xl text-white">Make memories that will last a lifetime. See your favorite artists live at CMA Fest!</p>
+                        <p className="pt-6 pb-10 text-2xl text-white">Make memories that will last a lifetime. See your favorite artists live at CMA Fest!</p>
                         <div className='flex items-center'>
-                            <button className="btn text-white border-none bg-gradient-to-r from-[#591BFF] to-[#7B4AFF]"><img src="bannerBtnTicket.png" alt="" />Get Ticket</button>
-                            <button className="btn btn-outline text-white ml-4">Explore All Events</button>
+                            <button className="btn text-white text-xl border-none bg-gradient-to-r from-[#591BFF] to-[#7B4AFF]"><img src="bannerBtnTicket.png" alt="" />Get Ticket</button>
+                            <button className="btn btn-outline text-white text-xl ml-4">Explore All Events</button>
                         </div>
                     </div>
                 </div>

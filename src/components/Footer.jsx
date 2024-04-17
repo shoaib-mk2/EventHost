@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className="bg-gradient-to-r from-[#591BFF] to-[#FFFFFF]">
             <div className="md:w-4/5 md:mx-auto text-white">
-                <footer className="footer py-20">
+                <footer className="footer px-10 py-20">
                     <nav>
                         <h6 className="text-4xl">Event<span className="font-bold">Host</span></h6>
                         <p className="w-72">IDEA Project, ICT Tower (0th Floor), Plot: E-14X, Agargaon, Dhaka - 1207

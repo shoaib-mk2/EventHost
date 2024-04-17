@@ -9,7 +9,7 @@ const SimpleTicketing = () => {
                 <div className="flex justify-center mb-9">
                     <button className="btn text-white border-none bg-gradient-to-r from-[#591BFF] to-[#7B4AFF] text-2xl"><img src="shield.png" alt="" />Secure Payment With</button>
                 </div>
-                <div className="flex justify-center">
+                <div className="flex justify-center flex-wrap">
                     <div className="bg-[#8C3494] rounded-t-[39px] w-80 relative border-2 border-white">
                         <div className="w-20 h-4 rounded-lg bg-white absolute top-4 left-[7.5rem]"></div>
                         <img className="py-40 mx-auto" src="rocket.png" alt="" />
