@@ -2,7 +2,7 @@
 
 const QRScan = () => {
     return (
-        <div className="md:w-4/5 md:mx-auto mb-16">
+        <div className="md:w-4/5 md:mx-auto mb-24">
             <h1 className="text-center text-5xl font-bold">Automated QR Scanner</h1>
             <h2 className="w-3/4 mx-auto text-center text-[#8053FA] text-2xl my-10">Scan & Verify The Attendees Directly By Our QR Scanning Solution.</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

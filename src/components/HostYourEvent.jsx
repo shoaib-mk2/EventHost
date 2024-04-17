@@ -4,7 +4,7 @@ const HostYourEvent = () => {
     return (
         <div>
             <div className="hero min-h-[70vh] bg-[#8053FA] md:w-4/5 md:mx-auto mb-20 rounded-[32px] relative">
-                <div className="hero-content flex-col lg:flex-row gap-20">
+                <div className="hero-content flex-col lg:flex-row gap-24">
                     <img src="hostYourEvent.png" className="" />
                     <div className="text-white">
                         <h1 className="text-5xl font-bold">Host Your Event Easily & Automatically With Us</h1>

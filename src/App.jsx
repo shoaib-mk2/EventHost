@@ -3,6 +3,7 @@ import Events from "./components/Events"
 import HostYourEvent from "./components/HostYourEvent"
 import Navbar from "./components/Navbar"
 import QRScan from "./components/QRScan"
+import SimpleTicketing from "./components/SimpleTicketing"
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Events></Events>
       <HostYourEvent></HostYourEvent>
       <QRScan></QRScan>
+      <SimpleTicketing></SimpleTicketing>
     </div>
   )
 }
