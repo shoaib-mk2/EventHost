@@ -15,7 +15,7 @@ const HostYourEvent = () => {
                         <p className="text-lg flex items-center py-2 gap-2"><FaCheckCircle className="text-2xl" /> <span>Send Bulk Personalized Mail With Attachments.</span></p>
                     </div>
                 </div>
-                <img className="absolute bottom-0 right-0" src="clock.png" alt="" />
+                <img className="absolute rounded-r-[32px] bottom-0 right-0" src="clock.png" alt="" />
             </div>
         </div>
     );
